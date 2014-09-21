@@ -26,14 +26,44 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>STM32F4xx-Nucleo</name>
+			<name>Middlewares</name>
 			<type>2</type>
-			<locationURI>STM32F4_CUBE/Drivers/BSP/STM32F4xx-Nucleo</locationURI>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>app</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>bsp</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
 			<name>drivers</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>Middlewares/FreeRTOS</name>
+			<type>2</type>
+			<locationURI>CUBE_PROJ_DIR/Middlewares/Third_Party/FreeRTOS</locationURI>
+		</link>
+		<link>
+			<name>app/Inc</name>
+			<type>2</type>
+			<locationURI>CUBE_PROJ_DIR/Inc</locationURI>
+		</link>
+		<link>
+			<name>app/Src</name>
+			<type>2</type>
+			<locationURI>CUBE_PROJ_DIR/Src</locationURI>
+		</link>
+		<link>
+			<name>bsp/STM32F4xx-Nucleo</name>
+			<type>2</type>
+			<locationURI>STM32F4_CUBE/Drivers/BSP/STM32F4xx-Nucleo</locationURI>
 		</link>
 		<link>
 			<name>drivers/CMSIS</name>
@@ -81,4 +111,10 @@
 			<locationURI>PARENT-1-STM32F4_CUBE/STM32Cube_FW_F4_V1.3.0_mod/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c</locationURI>
 		</link>
 	</linkedResources>
+	<variableList>
+		<variable>
+			<name>CUBE_PROJ_DIR</name>
+			<value>file:/D:/cube_projs/nucleof401-rtos/nucelo-typ</value>
+		</variable>
+	</variableList>
 </projectDescription>

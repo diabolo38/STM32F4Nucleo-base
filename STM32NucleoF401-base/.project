@@ -108,13 +108,13 @@
 		<link>
 			<name>drivers/CMSIS/src/system_stm32f4xx.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-STM32F4_CUBE/STM32Cube_FW_F4_V1.3.0_mod/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c</locationURI>
+			<locationURI>STM32F4_CUBE/Drivers/CMSIS/Device/ST/STM32F4xx/Source/Templates/system_stm32f4xx.c</locationURI>
 		</link>
 	</linkedResources>
 	<variableList>
 		<variable>
 			<name>CUBE_PROJ_DIR</name>
-			<value>file:/D:/cube_projs/nucleof401-rtos/nucelo-typ</value>
+			<value>file:/K:/STM/CubeMXProject/STM32F401Nucleo-VL6180X</value>
 		</variable>
 	</variableList>
 </projectDescription>

@@ -114,7 +114,7 @@
 	<variableList>
 		<variable>
 			<name>CUBE_PROJ_DIR</name>
-			<value>file:/K:/STM/CubeMXProject/STM32F401Nucleo-VL6180X</value>
+			<value>file:/D:/cube_projs/nucleof401-rtos/nucelo-typ</value>
 		</variable>
 	</variableList>
 </projectDescription>
